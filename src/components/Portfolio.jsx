@@ -20,7 +20,7 @@ const Portfolio = () => {
     {
       id: 3,
       src: proje3,
-      codeHref: "https://github.com/kardelen90/LMS-PROJECT.git"
+      codeHref: "https://github.com/kardelen90/netflix-clone.git"
     },
     {
       id: 4,
